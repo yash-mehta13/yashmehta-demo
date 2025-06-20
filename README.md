@@ -1,4 +1,4 @@
 # yashmehta-demo
 This is my first Git Repository.
 <br>
-Author - Yash Mehta
+Author - Yash Mehta (Student)
